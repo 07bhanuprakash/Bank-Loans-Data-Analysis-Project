@@ -5,7 +5,7 @@ Bank Loan Analysis is to create a value lies in its ability to highlight potenti
 ## Dataset Used
 - <a href="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/Bank-Loan-Data.xlsx"> Dataset</a>
 
-## question KPI'S for (Summary Dashboard)
+## Question KPI'S for Dashboard
 - Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month   (MoM)
 - Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
 - Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month  (MoM) changes.
@@ -38,10 +38,14 @@ Bad Loan
 - Merge all the pivot tables in to a dashboard and apply slicers to make it dynamic.
 
   ## Dashboard
-- <a herf="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/Bank-Loan-Dashboard..xlsx">Dashboard</a>
+- <a href="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/Bank-Loan-Dashboard..xlsx">Dashboard</a>
 
 ## Project insight
--
+- Most of the loan applications are for debt consolidation.
+- Loan applications are more frequent for customers with homeownership mortgage and rent.
+- The state of California (CA) is contributing the most loan applications (79%).
+- Customers are clearing their loans in a term of 36 months (90%).
+- Customers have been consistently paying their loan amounts for more than 10 years.
 
 
 
