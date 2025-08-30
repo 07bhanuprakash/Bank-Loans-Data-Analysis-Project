@@ -31,6 +31,18 @@ Bad Loan
 -Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 - Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-## Dashboard
+## Process
+-Identify the missing values and sort out them.
+- Data is clean with respect to data type.
+- create a pivot tables as per the questions asked.
+- Merge all the pivot tables in to a dashboard and apply slicers to make it dynamic.
+
+  ## Dashboard
+- <a herf="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/Bank-Loan-Dashboard..xlsx">Dashboard</a>
+
+## Project insight
+-
+
+
 
 
