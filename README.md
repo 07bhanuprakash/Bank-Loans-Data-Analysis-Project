@@ -3,7 +3,7 @@
 Bank Loan Analysis is to create a value lies in its ability to highlight potential risks and total loans report of 2021.so that bank can increase loans growth in 2022,2023.
 
 ## Dataset Used
-- <a href="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/financial_loan%20Dashboard.xlsx"> Dataset</a>
+- <a href="https://github.com/07bhanuprakash/Bank-Loans-Data-Analysis-Project/blob/main/Bank-Loan-Data.xlsx"> Dataset</a>
 
 ## question KPI'S for (Summary Dashboard)
 - Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month   (MoM)
@@ -23,4 +23,14 @@ Bad Loan
 - Bad Loan Funded Amount
 - Bad Loan Total Received Amount
 
-## Summary Dashboard
+## question KPI'S for (overview Dashboard)
+- Monthly Trends by Issue Date (Line Chart): To identify seasonality and long-term trends in lending activities
+- Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities
+- Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.
+- Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+-Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+- Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
+
+## Dashboard
+
+
